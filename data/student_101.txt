@@ -1,0 +1,18 @@
+STUDENT ACADEMIC RECORD
+========================
+Student ID: 101
+Name: satyam
+Department: CSE(AIML)
+
+COURSES
+java : 93.0
+c++ : 92.0
+
+Total Marks: 185.0
+Average Marks: 92.5
+Overall Grade: A+
+
+ATTENDANCE
+Total Classes: 40
+Attended Classes: 38
+Attendance Percentage: 95.0%
